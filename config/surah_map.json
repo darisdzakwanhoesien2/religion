@@ -630,10 +630,153 @@
     "themes": ["Moral Choice", "Struggle", "Compassion"]
   },
 
-  "...": {
-    "note": "Surahs 11–112 follow the same verified structure."
+  "Ash-Shams": {
+    "surah_number": 91,
+    "total_ayah": 15,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Purification", "Moral Choice", "Accountability"]
   },
-
+  "Al-Layl": {
+    "surah_number": 92,
+    "total_ayah": 21,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Charity", "Guidance", "Contrast"]
+  },
+  "Ad-Duha": {
+    "surah_number": 93,
+    "total_ayah": 11,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Comfort", "Divine Care", "Hope"]
+  },
+  "Ash-Sharh": {
+    "surah_number": 94,
+    "total_ayah": 8,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Relief", "Perseverance", "Ease after Hardship"]
+  },
+  "At-Tin": {
+    "surah_number": 95,
+    "total_ayah": 8,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Human Nature", "Faith", "Judgment"]
+  },
+  "Al-Alaq": {
+    "surah_number": 96,
+    "total_ayah": 19,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Revelation", "Knowledge", "Arrogance"]
+  },
+  "Al-Qadr": {
+    "surah_number": 97,
+    "total_ayah": 5,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Revelation", "Divine Decree", "Blessing"]
+  },
+  "Al-Bayyinah": {
+    "surah_number": 98,
+    "total_ayah": 8,
+    "revelation": "Medinan",
+    "juz_range": "30",
+    "themes": ["Clear Proof", "Faith", "Accountability"]
+  },
+  "Az-Zalzalah": {
+    "surah_number": 99,
+    "total_ayah": 8,
+    "revelation": "Medinan",
+    "juz_range": "30",
+    "themes": ["Resurrection", "Judgment", "Deeds"]
+  },
+  "Al-Adiyat": {
+    "surah_number": 100,
+    "total_ayah": 11,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Ingratitude", "Human Nature", "Accountability"]
+  },
+  "Al-Qari'ah": {
+    "surah_number": 101,
+    "total_ayah": 11,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Judgment", "Hereafter", "Consequences"]
+  },
+  "At-Takathur": {
+    "surah_number": 102,
+    "total_ayah": 8,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Worldly Rivalry", "Neglect", "Accountability"]
+  },
+  "Al-Asr": {
+    "surah_number": 103,
+    "total_ayah": 3,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Time", "Faith", "Perseverance"]
+  },
+  "Al-Humazah": {
+    "surah_number": 104,
+    "total_ayah": 9,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Backbiting", "Greed", "Punishment"]
+  },
+  "Al-Fil": {
+    "surah_number": 105,
+    "total_ayah": 5,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Divine Protection", "History", "Power of God"]
+  },
+  "Quraysh": {
+    "surah_number": 106,
+    "total_ayah": 4,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Provision", "Security", "Gratitude"]
+  },
+  "Al-Ma'un": {
+    "surah_number": 107,
+    "total_ayah": 7,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Hypocrisy", "Social Responsibility", "Neglect"]
+  },
+  "Al-Kawthar": {
+    "surah_number": 108,
+    "total_ayah": 3,
+    "revelation": "Medinan",
+    "juz_range": "30",
+    "themes": ["Divine Favor", "Gratitude", "Sacrifice"]
+  },
+  "Al-Kafirun": {
+    "surah_number": 109,
+    "total_ayah": 6,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Monotheism", "Clear Distinction", "Faith"]
+  },
+  "An-Nasr": {
+    "surah_number": 110,
+    "total_ayah": 3,
+    "revelation": "Medinan",
+    "juz_range": "30",
+    "themes": ["Victory", "Gratitude", "Completion"]
+  },
+  "Al-Masad": {
+    "surah_number": 111,
+    "total_ayah": 5,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Arrogance", "Opposition", "Consequence"]
+  },
   "Al-Ikhlas": {
     "surah_number": 112,
     "total_ayah": 4,
@@ -646,7 +789,7 @@
     "total_ayah": 5,
     "revelation": "Meccan",
     "juz_range": "30",
-    "themes": ["Protection", "Supplication"]
+    "themes": ["Protection", "Seeking Refuge"]
   },
   "An-Nas": {
     "surah_number": 114,
@@ -655,4 +798,5 @@
     "juz_range": "30",
     "themes": ["Protection", "Reliance on God"]
   }
+
 }
