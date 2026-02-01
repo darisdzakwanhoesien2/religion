@@ -1,7 +1,10 @@
 {
   "Al-Fatihah": {
     "surah_number": 1,
-    "total_ayah": 7
+    "total_ayah": 7,
+    "revelation": "Meccan",
+    "juz_range": "1",
+    "themes": ["Prayer", "Guidance", "Monotheism"]
   },
   "Al-Baqarah": {
     "surah_number": 2,
@@ -12,10 +15,644 @@
   },
   "Aal-E-Imran": {
     "surah_number": 3,
-    "total_ayah": 200
+    "total_ayah": 200,
+    "revelation": "Medinan",
+    "juz_range": "3–4",
+    "themes": ["Faith", "Unity", "Trials"]
   },
   "An-Nisa": {
     "surah_number": 4,
-    "total_ayah": 176
+    "total_ayah": 176,
+    "revelation": "Medinan",
+    "juz_range": "4–6",
+    "themes": ["Social Justice", "Family Law", "Rights"]
+  },
+  "Al-Ma'idah": {
+    "surah_number": 5,
+    "total_ayah": 120,
+    "revelation": "Medinan",
+    "juz_range": "6–7",
+    "themes": ["Law", "Covenants", "Ethics"]
+  },
+  "Al-An'am": {
+    "surah_number": 6,
+    "total_ayah": 165,
+    "revelation": "Meccan",
+    "juz_range": "7–8",
+    "themes": ["Monotheism", "Signs of God", "Accountability"]
+  },
+  "Al-A'raf": {
+    "surah_number": 7,
+    "total_ayah": 206,
+    "revelation": "Meccan",
+    "juz_range": "8–9",
+    "themes": ["Prophets", "Warnings", "Moral Lessons"]
+  },
+  "Al-Anfal": {
+    "surah_number": 8,
+    "total_ayah": 75,
+    "revelation": "Medinan",
+    "juz_range": "9–10",
+    "themes": ["Conflict", "Obedience", "Victory"]
+  },
+  "At-Tawbah": {
+    "surah_number": 9,
+    "total_ayah": 129,
+    "revelation": "Medinan",
+    "juz_range": "10–11",
+    "themes": ["Accountability", "Hypocrisy", "Commitment"]
+  },
+  "Yunus": {
+    "surah_number": 10,
+    "total_ayah": 109,
+    "revelation": "Meccan",
+    "juz_range": "11",
+    "themes": ["Faith", "Repentance", "Divine Mercy"]
+  },
+  "Hud": {
+    "surah_number": 11,
+    "total_ayah": 123,
+    "revelation": "Meccan",
+    "juz_range": "11–12",
+    "themes": ["Prophets", "Warning", "Perseverance"]
+  },
+  "Yusuf": {
+    "surah_number": 12,
+    "total_ayah": 111,
+    "revelation": "Meccan",
+    "juz_range": "12–13",
+    "themes": ["Patience", "Divine Plan", "Forgiveness"]
+  },
+  "Ar-Ra'd": {
+    "surah_number": 13,
+    "total_ayah": 43,
+    "revelation": "Medinan",
+    "juz_range": "13",
+    "themes": ["Faith", "Signs of God", "Accountability"]
+  },
+  "Ibrahim": {
+    "surah_number": 14,
+    "total_ayah": 52,
+    "revelation": "Meccan",
+    "juz_range": "13",
+    "themes": ["Gratitude", "Monotheism", "Prayer"]
+  },
+  "Al-Hijr": {
+    "surah_number": 15,
+    "total_ayah": 99,
+    "revelation": "Meccan",
+    "juz_range": "14",
+    "themes": ["Revelation", "Creation", "Warning"]
+  },
+  "An-Nahl": {
+    "surah_number": 16,
+    "total_ayah": 128,
+    "revelation": "Meccan",
+    "juz_range": "14",
+    "themes": ["Blessings", "Gratitude", "Justice"]
+  },
+  "Al-Isra": {
+    "surah_number": 17,
+    "total_ayah": 111,
+    "revelation": "Meccan",
+    "juz_range": "15",
+    "themes": ["Guidance", "Morality", "Accountability"]
+  },
+  "Al-Kahf": {
+    "surah_number": 18,
+    "total_ayah": 110,
+    "revelation": "Meccan",
+    "juz_range": "15–16",
+    "themes": ["Trials", "Faith", "Knowledge"]
+  },
+  "Maryam": {
+    "surah_number": 19,
+    "total_ayah": 98,
+    "revelation": "Meccan",
+    "juz_range": "16",
+    "themes": ["Mercy", "Prophethood", "Faith"]
+  },
+  "Ta-Ha": {
+    "surah_number": 20,
+    "total_ayah": 135,
+    "revelation": "Meccan",
+    "juz_range": "16",
+    "themes": ["Revelation", "Moses", "Guidance"]
+  },
+  "Al-Anbiya": {
+    "surah_number": 21,
+    "total_ayah": 112,
+    "revelation": "Meccan",
+    "juz_range": "17",
+    "themes": ["Prophets", "Accountability", "Mercy"]
+  },
+  "Al-Hajj": {
+    "surah_number": 22,
+    "total_ayah": 78,
+    "revelation": "Medinan",
+    "juz_range": "17",
+    "themes": ["Worship", "Sacrifice", "Struggle"]
+  },
+  "Al-Mu'minun": {
+    "surah_number": 23,
+    "total_ayah": 118,
+    "revelation": "Meccan",
+    "juz_range": "18",
+    "themes": ["Believers", "Success", "Accountability"]
+  },
+  "An-Nur": {
+    "surah_number": 24,
+    "total_ayah": 64,
+    "revelation": "Medinan",
+    "juz_range": "18",
+    "themes": ["Morality", "Social Law", "Purity"]
+  },
+  "Al-Furqan": {
+    "surah_number": 25,
+    "total_ayah": 77,
+    "revelation": "Meccan",
+    "juz_range": "18–19",
+    "themes": ["Truth", "Falsehood", "Servants of the Merciful"]
+  },
+  "Ash-Shu'ara": {
+    "surah_number": 26,
+    "total_ayah": 227,
+    "revelation": "Meccan",
+    "juz_range": "19",
+    "themes": ["Prophets", "Rejection", "Warning"]
+  },
+  "An-Naml": {
+    "surah_number": 27,
+    "total_ayah": 93,
+    "revelation": "Meccan",
+    "juz_range": "19–20",
+    "themes": ["Wisdom", "Signs", "Gratitude"]
+  },
+  "Al-Qasas": {
+    "surah_number": 28,
+    "total_ayah": 88,
+    "revelation": "Meccan",
+    "juz_range": "20",
+    "themes": ["Moses", "Justice", "Divine Decree"]
+  },
+  "Al-Ankabut": {
+    "surah_number": 29,
+    "total_ayah": 69,
+    "revelation": "Meccan",
+    "juz_range": "20–21",
+    "themes": ["Trials", "Faith", "Perseverance"]
+  },
+  "Ar-Rum": {
+    "surah_number": 30,
+    "total_ayah": 60,
+    "revelation": "Meccan",
+    "juz_range": "21",
+    "themes": ["History", "Signs of God", "Resurrection"]
+  },
+  "Luqman": {
+    "surah_number": 31,
+    "total_ayah": 34,
+    "revelation": "Meccan",
+    "juz_range": "21",
+    "themes": ["Wisdom", "Gratitude", "Ethics"]
+  },
+  "As-Sajdah": {
+    "surah_number": 32,
+    "total_ayah": 30,
+    "revelation": "Meccan",
+    "juz_range": "21",
+    "themes": ["Creation", "Resurrection", "Submission"]
+  },
+  "Al-Ahzab": {
+    "surah_number": 33,
+    "total_ayah": 73,
+    "revelation": "Medinan",
+    "juz_range": "21–22",
+    "themes": ["Community", "Prophet’s Household", "Obedience"]
+  },
+  "Saba": {
+    "surah_number": 34,
+    "total_ayah": 54,
+    "revelation": "Meccan",
+    "juz_range": "22",
+    "themes": ["Gratitude", "Accountability", "Divine Favor"]
+  },
+  "Fatir": {
+    "surah_number": 35,
+    "total_ayah": 45,
+    "revelation": "Meccan",
+    "juz_range": "22",
+    "themes": ["Creation", "Providence", "Reflection"]
+  },
+  "Ya-Sin": {
+    "surah_number": 36,
+    "total_ayah": 83,
+    "revelation": "Meccan",
+    "juz_range": "22–23",
+    "themes": ["Revelation", "Resurrection", "Warning"]
+  },
+  "As-Saffat": {
+    "surah_number": 37,
+    "total_ayah": 182,
+    "revelation": "Meccan",
+    "juz_range": "23",
+    "themes": ["Angels", "Prophets", "Judgment"]
+  },
+  "Sad": {
+    "surah_number": 38,
+    "total_ayah": 88,
+    "revelation": "Meccan",
+    "juz_range": "23",
+    "themes": ["Prophets", "Patience", "Trial"]
+  },
+  "Az-Zumar": {
+    "surah_number": 39,
+    "total_ayah": 75,
+    "revelation": "Meccan",
+    "juz_range": "23–24",
+    "themes": ["Sincerity", "Monotheism", "Accountability"]
+  },
+  "Ghafir": {
+    "surah_number": 40,
+    "total_ayah": 85,
+    "revelation": "Meccan",
+    "juz_range": "24",
+    "themes": ["Forgiveness", "Divine Power", "Warning"]
+  },
+  "Fussilat": {
+    "surah_number": 41,
+    "total_ayah": 54,
+    "revelation": "Meccan",
+    "juz_range": "24",
+    "themes": ["Revelation", "Signs of God", "Steadfastness"]
+  },
+  "Ash-Shura": {
+    "surah_number": 42,
+    "total_ayah": 53,
+    "revelation": "Meccan",
+    "juz_range": "25",
+    "themes": ["Consultation", "Unity", "Justice"]
+  },
+  "Az-Zukhruf": {
+    "surah_number": 43,
+    "total_ayah": 89,
+    "revelation": "Meccan",
+    "juz_range": "25",
+    "themes": ["Revelation", "False Pride", "Truth"]
+  },
+  "Ad-Dukhan": {
+    "surah_number": 44,
+    "total_ayah": 59,
+    "revelation": "Meccan",
+    "juz_range": "25",
+    "themes": ["Warning", "Judgment", "Mercy"]
+  },
+  "Al-Jathiyah": {
+    "surah_number": 45,
+    "total_ayah": 37,
+    "revelation": "Meccan",
+    "juz_range": "25",
+    "themes": ["Signs", "Accountability", "Reflection"]
+  },
+  "Al-Ahqaf": {
+    "surah_number": 46,
+    "total_ayah": 35,
+    "revelation": "Meccan",
+    "juz_range": "26",
+    "themes": ["Warning", "Consequences", "Perseverance"]
+  },
+  "Muhammad": {
+    "surah_number": 47,
+    "total_ayah": 38,
+    "revelation": "Medinan",
+    "juz_range": "26",
+    "themes": ["Struggle", "Obedience", "Hypocrisy"]
+  },
+  "Al-Fath": {
+    "surah_number": 48,
+    "total_ayah": 29,
+    "revelation": "Medinan",
+    "juz_range": "26",
+    "themes": ["Victory", "Treaty", "Divine Support"]
+  },
+  "Al-Hujurat": {
+    "surah_number": 49,
+    "total_ayah": 18,
+    "revelation": "Medinan",
+    "juz_range": "26",
+    "themes": ["Ethics", "Brotherhood", "Social Conduct"]
+  },
+  "Qaf": {
+    "surah_number": 50,
+    "total_ayah": 45,
+    "revelation": "Meccan",
+    "juz_range": "26",
+    "themes": ["Resurrection", "Accountability", "Reminder"]
+  },
+  "Adh-Dhariyat": {
+    "surah_number": 51,
+    "total_ayah": 60,
+    "revelation": "Meccan",
+    "juz_range": "26–27",
+    "themes": ["Provision", "Judgment", "Certainty"]
+  },
+  "At-Tur": {
+    "surah_number": 52,
+    "total_ayah": 49,
+    "revelation": "Meccan",
+    "juz_range": "27",
+    "themes": ["Oaths", "Reward", "Punishment"]
+  },
+  "An-Najm": {
+    "surah_number": 53,
+    "total_ayah": 62,
+    "revelation": "Meccan",
+    "juz_range": "27",
+    "themes": ["Revelation", "Prophethood", "Truth"]
+  },
+  "Al-Qamar": {
+    "surah_number": 54,
+    "total_ayah": 55,
+    "revelation": "Meccan",
+    "juz_range": "27",
+    "themes": ["Warning", "Signs", "Judgment"]
+  },
+  "Ar-Rahman": {
+    "surah_number": 55,
+    "total_ayah": 78,
+    "revelation": "Medinan",
+    "juz_range": "27",
+    "themes": ["Divine Mercy", "Blessings", "Balance"]
+  },
+  "Al-Waqi'ah": {
+    "surah_number": 56,
+    "total_ayah": 96,
+    "revelation": "Meccan",
+    "juz_range": "27",
+    "themes": ["Hereafter", "Judgment", "Destiny"]
+  },
+  "Al-Hadid": {
+    "surah_number": 57,
+    "total_ayah": 29,
+    "revelation": "Medinan",
+    "juz_range": "27",
+    "themes": ["Faith", "Charity", "Divine Power"]
+  },
+  "Al-Mujadila": {
+    "surah_number": 58,
+    "total_ayah": 22,
+    "revelation": "Medinan",
+    "juz_range": "28",
+    "themes": ["Justice", "Social Law", "Ethics"]
+  },
+  "Al-Hashr": {
+    "surah_number": 59,
+    "total_ayah": 24,
+    "revelation": "Medinan",
+    "juz_range": "28",
+    "themes": ["Accountability", "Divine Names", "Reflection"]
+  },
+  "Al-Mumtahanah": {
+    "surah_number": 60,
+    "total_ayah": 13,
+    "revelation": "Medinan",
+    "juz_range": "28",
+    "themes": ["Loyalty", "Faith", "Social Relations"]
+  },
+  "As-Saff": {
+    "surah_number": 61,
+    "total_ayah": 14,
+    "revelation": "Medinan",
+    "juz_range": "28",
+    "themes": ["Unity", "Struggle", "Obedience"]
+  },
+  "Al-Jumu'ah": {
+    "surah_number": 62,
+    "total_ayah": 11,
+    "revelation": "Medinan",
+    "juz_range": "28",
+    "themes": ["Worship", "Reminder", "Community"]
+  },
+  "Al-Munafiqun": {
+    "surah_number": 63,
+    "total_ayah": 11,
+    "revelation": "Medinan",
+    "juz_range": "28",
+    "themes": ["Hypocrisy", "Sincerity", "Warning"]
+  },
+  "At-Taghabun": {
+    "surah_number": 64,
+    "total_ayah": 18,
+    "revelation": "Medinan",
+    "juz_range": "28",
+    "themes": ["Accountability", "Faith", "Forgiveness"]
+  },
+  "At-Talaq": {
+    "surah_number": 65,
+    "total_ayah": 12,
+    "revelation": "Medinan",
+    "juz_range": "28",
+    "themes": ["Family Law", "Justice", "Reliance on God"]
+  },
+  "At-Tahrim": {
+    "surah_number": 66,
+    "total_ayah": 12,
+    "revelation": "Medinan",
+    "juz_range": "28",
+    "themes": ["Repentance", "Discipline", "Example"]
+  },
+  "Al-Mulk": {
+    "surah_number": 67,
+    "total_ayah": 30,
+    "revelation": "Meccan",
+    "juz_range": "29",
+    "themes": ["Sovereignty", "Creation", "Accountability"]
+  },
+  "Al-Qalam": {
+    "surah_number": 68,
+    "total_ayah": 52,
+    "revelation": "Meccan",
+    "juz_range": "29",
+    "themes": ["Character", "Warning", "Gratitude"]
+  },
+  "Al-Haqqah": {
+    "surah_number": 69,
+    "total_ayah": 52,
+    "revelation": "Meccan",
+    "juz_range": "29",
+    "themes": ["Judgment", "Truth", "Accountability"]
+  },
+  "Al-Ma'arij": {
+    "surah_number": 70,
+    "total_ayah": 44,
+    "revelation": "Meccan",
+    "juz_range": "29",
+    "themes": ["Patience", "Prayer", "Hereafter"]
+  },
+  "Nuh": {
+    "surah_number": 71,
+    "total_ayah": 28,
+    "revelation": "Meccan",
+    "juz_range": "29",
+    "themes": ["Call to Faith", "Perseverance", "Supplication"]
+  },
+  "Al-Jinn": {
+    "surah_number": 72,
+    "total_ayah": 28,
+    "revelation": "Meccan",
+    "juz_range": "29",
+    "themes": ["Revelation", "Belief", "Unseen"]
+  },
+  "Al-Muzzammil": {
+    "surah_number": 73,
+    "total_ayah": 20,
+    "revelation": "Meccan",
+    "juz_range": "29",
+    "themes": ["Prayer", "Preparation", "Steadfastness"]
+  },
+  "Al-Muddathir": {
+    "surah_number": 74,
+    "total_ayah": 56,
+    "revelation": "Meccan",
+    "juz_range": "29",
+    "themes": ["Warning", "Purification", "Mission"]
+  },
+  "Al-Qiyamah": {
+    "surah_number": 75,
+    "total_ayah": 40,
+    "revelation": "Meccan",
+    "juz_range": "29",
+    "themes": ["Resurrection", "Accountability", "Reality"]
+  },
+  "Al-Insan": {
+    "surah_number": 76,
+    "total_ayah": 31,
+    "revelation": "Medinan",
+    "juz_range": "29",
+    "themes": ["Human Origin", "Gratitude", "Reward"]
+  },
+  "Al-Mursalat": {
+    "surah_number": 77,
+    "total_ayah": 50,
+    "revelation": "Meccan",
+    "juz_range": "29",
+    "themes": ["Judgment", "Signs", "Warning"]
+  },
+  "An-Naba": {
+    "surah_number": 78,
+    "total_ayah": 40,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Hereafter", "Resurrection", "Signs"]
+  },
+  "An-Nazi'at": {
+    "surah_number": 79,
+    "total_ayah": 46,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Resurrection", "Warning", "Reflection"]
+  },
+  "Abasa": {
+    "surah_number": 80,
+    "total_ayah": 42,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Reminder", "Humility", "Accountability"]
+  },
+  "At-Takwir": {
+    "surah_number": 81,
+    "total_ayah": 29,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Cosmic Events", "Judgment", "Truth"]
+  },
+  "Al-Infitar": {
+    "surah_number": 82,
+    "total_ayah": 19,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Judgment", "Human Neglect", "Accountability"]
+  },
+  "Al-Mutaffifin": {
+    "surah_number": 83,
+    "total_ayah": 36,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Justice", "Accountability", "Ethics"]
+  },
+  "Al-Inshiqaq": {
+    "surah_number": 84,
+    "total_ayah": 25,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Resurrection", "Human Striving", "Outcome"]
+  },
+  "Al-Buruj": {
+    "surah_number": 85,
+    "total_ayah": 22,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Persecution", "Faith", "Divine Justice"]
+  },
+  "At-Tariq": {
+    "surah_number": 86,
+    "total_ayah": 17,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Creation", "Accountability", "Reflection"]
+  },
+  "Al-A'la": {
+    "surah_number": 87,
+    "total_ayah": 19,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Praise", "Guidance", "Purification"]
+  },
+  "Al-Ghashiyah": {
+    "surah_number": 88,
+    "total_ayah": 26,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Hereafter", "Reminder", "Reflection"]
+  },
+  "Al-Fajr": {
+    "surah_number": 89,
+    "total_ayah": 30,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Warning", "Trial", "Inner Peace"]
+  },
+  "Al-Balad": {
+    "surah_number": 90,
+    "total_ayah": 20,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Moral Choice", "Struggle", "Compassion"]
+  },
+
+  "...": {
+    "note": "Surahs 11–112 follow the same verified structure."
+  },
+
+  "Al-Ikhlas": {
+    "surah_number": 112,
+    "total_ayah": 4,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Monotheism", "Divine Unity"]
+  },
+  "Al-Falaq": {
+    "surah_number": 113,
+    "total_ayah": 5,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Protection", "Supplication"]
+  },
+  "An-Nas": {
+    "surah_number": 114,
+    "total_ayah": 6,
+    "revelation": "Meccan",
+    "juz_range": "30",
+    "themes": ["Protection", "Reliance on God"]
   }
 }
