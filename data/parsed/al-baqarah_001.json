@@ -1,0 +1,92 @@
+{
+  "surah": "Al-Baqarah",
+  "surah_number": 2,
+  "total_ayah": 286,
+  "sections": [
+    {
+      "start_ayah": 1,
+      "end_ayah": 5,
+      "theme": "The Righteous",
+      "summary": "The Surah begins by declaring the Quran as a \"Book in which there is no doubt\" and a guide for the righteous. These verses define the **righteous** as those who believe in the unseen, perform prayers, and give from their provision, concluding that these individuals are the successful ones."
+    },
+    {
+      "start_ayah": 6,
+      "end_ayah": 7,
+      "theme": "The Disbelievers",
+      "summary": "The focus shifts to **disbelievers**, stating that warning them is ineffective because Allah has sealed their hearts, hearing, and vision, leading to severe torment."
+    },
+    {
+      "start_ayah": 8,
+      "end_ayah": 10,
+      "theme": "The Hypocrites",
+      "summary": "This range introduces **hypocrites**—those who claim belief in Allah and the Last Day but are not true believers. They are described as attempting to deceive Allah while only deceiving themselves, and because of the \"sickness\" in their hearts, they face a painful punishment."
+    },
+    {
+      "start_ayah": 30,
+      "end_ayah": 39,
+      "theme": "The Origins of Humanity",
+      "summary": "This range details the **creation of Adam**, the dialogue between Allah and the angels, and the arrogance of **Satan**, who refused to bow and was cast out."
+    },
+    {
+      "start_ayah": 40,
+      "end_ayah": 123,
+      "theme": "The Children of Israel",
+      "summary": "A long, connected section addresses the **Children of Israel**, reminding them of Allah's favors—such as delivery from Pharaoh and the parting of the sea—while admonishing them for their disobedience and the hardening of their hearts."
+    },
+    {
+      "start_ayah": 124,
+      "end_ayah": 141,
+      "theme": "The Legacy of Abraham",
+      "summary": "These verses focus on **Abraham and Ishmael** raising the foundations of the Kabah and the importance of the monotheistic creed."
+    },
+    {
+      "start_ayah": 142,
+      "end_ayah": 152,
+      "theme": "The Change of Qibla",
+      "summary": "This range discusses the **direction of prayer (Qibla)**, emphasizing that Allah guides whom He wills to a straight path and establishing the Muslim community as a \"moderate community\"."
+    },
+    {
+      "start_ayah": 183,
+      "end_ayah": 203,
+      "theme": "Spiritual and Social Obligations",
+      "summary": "Verses 183–187 focus on the **prescriptions for fasting and Ramadan**, while verses 196–203 provide detailed regulations for the **Hajj pilgrimage**."
+    },
+    {
+      "start_ayah": 221,
+      "end_ayah": 242,
+      "theme": "Family Law",
+      "summary": "These verses provide a connected series of rulings regarding **marriage, menstruation, nursing, and divorce**, emphasizing fairness and the limits set by Allah."
+    },
+    {
+      "start_ayah": 261,
+      "end_ayah": 283,
+      "theme": "Economic Ethics",
+      "summary": "This range connects the virtues of **charity (infaq)** with the strict **prohibition of usury (riba)** and the legal requirement to document debts in writing."
+    },
+    {
+      "start_ayah": 284,
+      "end_ayah": 286,
+      "theme": "Final Declaration and Prayer",
+      "summary": "The Surah concludes with a range that summarizes faith in Allah's messengers and a prayer for mercy, famously stating that **\"Allah does not burden any soul beyond its capacity\"**."
+    }
+  ],
+  "missing_ayah_ranges": [
+    {
+      "start": 11,
+      "end": 29
+    },
+    {
+      "start": 153,
+      "end": 182
+    },
+    {
+      "start": 204,
+      "end": 220
+    },
+    {
+      "start": 243,
+      "end": 260
+    }
+  ],
+  "generated_at": "2026-02-01T15:59:06.500320Z"
+}

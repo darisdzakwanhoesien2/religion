@@ -1,0 +1,21 @@
+{
+  "Al-Fatihah": {
+    "surah_number": 1,
+    "total_ayah": 7
+  },
+  "Al-Baqarah": {
+    "surah_number": 2,
+    "total_ayah": 286,
+    "revelation": "Medinan",
+    "juz_range": "1–3",
+    "themes": ["Law", "Faith", "Community"]
+  },
+  "Aal-E-Imran": {
+    "surah_number": 3,
+    "total_ayah": 200
+  },
+  "An-Nisa": {
+    "surah_number": 4,
+    "total_ayah": 176
+  }
+}
