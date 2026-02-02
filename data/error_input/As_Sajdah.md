@@ -1,0 +1,13 @@
+*   Verses 1–3 (Authenticity of Revelation): This opening range identifies the Scripture as a certain truth from the Lord of the Universe, sent to warn a people who had not previously received a warner. It refutes charges of fabrication, establishing the **Quran** as a definitive source of guidance for those seeking to be rightly-guided.
+
+*   Verses 4–9 (Sovereignty and Human Origin): Allah is identified as the Creator of the heavens and earth in six days, who governs all affairs and proportioned **man from clay** before breathing into him His Spirit. The sources emphasize that this divine process includes the recording of **takdir (destiny)**, which predetermines an individual’s provisions, lifespan, and ultimate state of happiness or misery.
+
+*   Verses 10–14 (Resurrection and Final Accountability): This section addresses skepticism regarding the **resurrection** of the body and establishes the certainty of the return to Allah through the angel of death. It describes the profound remorse of the **guilty** on Judgment Day, where they will be forsaken for their previous heedlessness and denial of the truth.
+
+*   Verses 15–17 (Characteristics of the Righteous): True believers are defined by their immediate **prostration** upon hearing divine signs and their night prayers performed in a state of **fear and hope**. Insights from the sources suggest that these spiritual states provide the heart with a **cahaya (light)** that facilitates discernment and leads to an unimaginable reward described as an unseen delight [29–31, 515].
+
+*   Verses 18–22 (The Contrast and Recompense): The text affirms that the faithful and the sinful are not equal, contrasting the hospitality of the **Gardens of Shelter** with the torment of the **Fire**. It warns that those who turn away from divine revelations after being reminded of them are criminals destined for severe **vengeance**.
+
+*   Verses 23–25 (Legacy of Prophetic Guidance): Moses was granted the Book as guidance, and Allah raised from his people leaders who commanded by His authority through their **patience** and certainty. This historical precedent reminds humanity that Allah is the only **Judge** who will decide between people regarding their differences on the Day of Resurrection.
+
+*   Verses 26–30 (Natural Signs and Finality): The destruction of previous civilizations and the revival of **dead land** through rainwater are presented as proofs for those who use their senses to reason. The surah concludes with a command to turn away from detractors and wait for the **day of victory**, when the belief of those who previously denied it will no longer be accepted.

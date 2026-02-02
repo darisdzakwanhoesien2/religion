@@ -1,3 +1,5 @@
+https://notebooklm.google.com/notebook/f2e31e81-afe4-437e-981a-b257d8f23532
+
 Yes — and this is a **great moment to lock in a clean project structure** 👍
 What you’re building is essentially a **text-to-structured-knowledge pipeline** with a UI layer, so we’ll design it like a **small but serious application**, not a one-off script.
 

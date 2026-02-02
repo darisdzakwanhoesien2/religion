@@ -1,0 +1,63 @@
+{
+  "surah": "Ta-Ha",
+  "surah_number": 20,
+  "total_ayah": 135,
+  "sections": [
+    {
+      "start_ayah": 1,
+      "end_ayah": 8,
+      "theme": "Divine Revelation and Majesty",
+      "summary": "The Quran is revealed as a **reminder** for those who fear Allah rather than a cause of distress. Allah is the **Most Merciful** who is settled upon the **Throne** and possesses the **Most Beautiful Names**."
+    },
+    {
+      "start_ayah": 9,
+      "end_ayah": 36,
+      "theme": "The Commissioning of Moses",
+      "summary": "Moses is called in the **sacred valley of Tuwa**, where he is commanded to establish **prayer** and is granted **miracles**. He requests the assistance of his brother **Aaron** to share the burden of the prophetic mission."
+    },
+    {
+      "start_ayah": 37,
+      "end_ayah": 48,
+      "theme": "Divine Favor and Mission",
+      "summary": "Allah recounts the **divine protection** provided to Moses since his infancy to ensure he was reared under His observation. The messengers are directed to speak to **Pharaoh** with gentle speech to facilitate his remembrance or fear of Allah."
+    },
+    {
+      "start_ayah": 49,
+      "end_ayah": 76,
+      "theme": "Confrontation and Magic",
+      "summary": "Pharaoh challenges the existence of the Lord, leading to a public trial against **magicians** whose tricks are swallowed by Moses’ staff. The magicians embrace **faith** in the Lord of Aaron and Moses, preferring the eternal **highest ranks** over worldly life."
+    },
+    {
+      "start_ayah": 77,
+      "end_ayah": 82,
+      "theme": "The Exodus and Covenant",
+      "summary": "Moses leads the believers across the sea on a dry path while Pharaoh’s army is **engulfed** by the water. Believers are commanded to enjoy **lawful provisions** without excess, as Allah is **Forgiving** to those who repent."
+    },
+    {
+      "start_ayah": 83,
+      "end_ayah": 98,
+      "theme": "The Golden Calf Incident",
+      "summary": "During Moses’ absence, the **Samarian** misleads the people into the **idolatry** of a golden calf. Moses rebukes the people and destroys the idol, affirming that Allah is the only **One God** besides whom there is no other."
+    },
+    {
+      "start_ayah": 99,
+      "end_ayah": 114,
+      "theme": "Accountability and the Quran",
+      "summary": "Those who turn away from the **Reminder** will carry a heavy burden on the Day of Resurrection. Allah is the **True King** who revealed the Quran in Arabic and commanded the Prophet to pray for an **increase in knowledge**."
+    },
+    {
+      "start_ayah": 115,
+      "end_ayah": 123,
+      "theme": "Adam and Satan's Enmity",
+      "summary": "Adam failed in his **resolve** and was deceived by **Satan** into eating from the tree of immortality. Following their descent, Allah promises **guidance** to ensure that those who follow it will not go astray or suffer."
+    },
+    {
+      "start_ayah": 124,
+      "end_ayah": 135,
+      "theme": "Warning and Persistence",
+      "summary": "Neglecting the **Reminder** leads to a **confined life** and being raised blind on the Day of Resurrection. Believers are commanded to practice **patience** and adhere to the **prayer** at the borders of the day."
+    }
+  ],
+  "missing_ayah_ranges": [],
+  "generated_at": "2026-02-02T07:39:17.608420Z"
+}

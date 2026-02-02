@@ -1,0 +1,44 @@
+{
+  "surah": "Al-Hujurat",
+  "surah_number": 49,
+  "total_ayah": 18,
+  "sections": [
+    {
+      "start_ayah": 1,
+      "end_ayah": 5,
+      "theme": "Etiquette Toward the Prophet",
+      "summary": "Believers are commanded not to prioritize their opinions over divine instruction and to maintain **decorum** by lowering their voices in the presence of the Messenger. Those who exhibit patience and respect rather than calling out from behind private **chambers** are promised forgiveness and a great reward [420–421]."
+    },
+    {
+      "start_ayah": 6,
+      "end_ayah": 8,
+      "theme": "Verification and Divine Favor",
+      "summary": "When a troublemaker brings news, believers must **investigate** the report to avoid harming others out of ignorance and subsequently becoming regretful. This range emphasizes that Allah has instilled the **love of faith** in the hearts of the rightly guided, making disbelief and rebellion hateful to them [421–422]."
+    },
+    {
+      "start_ayah": 9,
+      "end_ayah": 10,
+      "theme": "Reconciliation and Islamic Brotherhood",
+      "summary": "In the event of conflict between two groups of believers, the community must intervene to **reconcile** them with justice and equity. This mandate is rooted in the theological concept of **brotherhood**, necessitating peace and consciousness of Allah to receive mercy."
+    },
+    {
+      "start_ayah": 11,
+      "end_ayah": 12,
+      "theme": "Social Ethics and Prohibitions",
+      "summary": "The text prohibits ridiculing others, slandering, or using insulting nicknames, as these constitute **wickedness** after faith. Believers are further instructed to avoid **suspicion, spying, and backbiting**, which are likened to the detestable act of eating a dead brother's flesh."
+    },
+    {
+      "start_ayah": 14,
+      "end_ayah": 18,
+      "theme": "Faith versus Outward Submission",
+      "summary": "A distinction is drawn between mere outward **submission** and internal **faith**, which requires unwavering belief and striving for the cause of Allah. The surah concludes by affirming that Allah possesses absolute knowledge of the **Unseen** in the heavens and earth, witnessing every human action [422–423]."
+    }
+  ],
+  "missing_ayah_ranges": [
+    {
+      "start": 13,
+      "end": 13
+    }
+  ],
+  "generated_at": "2026-02-02T07:21:58.694001Z"
+}
