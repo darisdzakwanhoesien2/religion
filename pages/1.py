@@ -1,7 +1,6 @@
 import streamlit as st
 import json
 from pathlib import Path
-from collections import defaultdict
 
 from utils.file_io import load_json
 from validators.ayah_coverage import find_missing_ranges
@@ -67,6 +66,8 @@ total_ayah = surah_map[surah_name]["total_ayah"]
 # -----------------------------
 # Compute Missing Ayah
 # -----------------------------
+# `find_missing_ranges` is forgiving: it normalizes reversed ranges and clamps out-of-bound
+# values so one malformed section doesn't break the whole integrated view.
 missing = find_missing_ranges(all_sections, total_ayah)
 
 # -----------------------------

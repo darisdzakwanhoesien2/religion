@@ -1,6 +1,7 @@
-import streamlit as st
 import json
 from datetime import datetime
+
+import streamlit as st
 
 from utils.file_io import load_json, save_json
 from parsers.surah_summary_parser import parse_sections
@@ -42,6 +43,7 @@ if raw_text.strip():
     if not sections:
         st.error("❌ No valid sections detected. Check formatting.")
     else:
+        # Compute coverage gaps so users can quickly see missing ayah ranges.
         missing = find_missing_ranges(sections, total_ayah)
 
         result = {
